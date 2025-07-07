@@ -4,7 +4,7 @@ A comprehensive virtual fashion try-on platform built with Next.js, Three.js, an
 
 ## 🎥 Demo Video
 
-https://cdn.nqvinh.dev/Try%20On%20Demo.mp4
+[Watch Demo Video](https://cdn.nqvinh.dev/Try%20On%20Demo.mp4)
 
 *Watch the demo to see the virtual try-on platform in action!*
 
